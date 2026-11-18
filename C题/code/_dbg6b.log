@@ -1,0 +1,8 @@
+C:\Users\Tower\Desktop\26年国赛\C题\code\_dbg6b.py:52: RuntimeWarning: Unrecognized options detected: {'primal_feasibility_tolerance'}. These will be passed to HiGHS verbatim.
+  res = milp(c, integrality=ig, bounds=B, constraints=LC, options=opts)
+C:\Users\Tower\Desktop\26年国赛\C题\code\_dbg6b.py:52: RuntimeWarning: Unrecognized options detected: {'dual_feasibility_tolerance'}. These will be passed to HiGHS verbatim.
+  res = milp(c, integrality=ig, bounds=B, constraints=LC, options=opts)
+default status 2 The problem is infeasible. (HiGHS Status 8: m fun 
+feasibility_tol_1e-9 status 2 The problem is infeasible. (HiGHS Status 8: m fun 
+feas_tol_1e-7 status 2 The problem is infeasible. (HiGHS Status 8: m fun 
+dual_tol_1e-8 status 2 The problem is infeasible. (HiGHS Status 8: m fun 

@@ -1,0 +1,19 @@
+<mxfile>
+  <diagram name="q1">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="10" value="附件1: 电价p、负荷L、光伏预测G（144时段）" style="rounded=1" vertex="1" parent="1"><mxGeometry x="20" y="20" width="170" height="44"/></mxCell>
+        <mxCell id="11" value="储能参数：容量12000、SOC[1200,10800]、效率0.9、功率5000" style="rounded=1" vertex="1" parent="1"><mxGeometry x="220" y="20" width="190" height="44"/></mxCell>
+        <mxCell id="12" value="0:00制定日前计划（LP：min Σp·q）" style="rounded=1" vertex="1" parent="1"><mxGeometry x="90" y="110" width="210" height="44"/></mxCell>
+        <mxCell id="13" value="约束：功率平衡、储能SOC递推、充放互斥(天然)、首末SOC=6000、购电≥0、弃光≥0" style="rounded=1" vertex="1" parent="1"><mxGeometry x="90" y="180" width="240" height="50"/></mxCell>
+        <mxCell id="14" value="输出：计划购电量q、充放电量、购电费 → result1" style="rounded=1" vertex="1" parent="1"><mxGeometry x="90" y="260" width="210" height="44"/></mxCell>
+        <mxCell id="e10" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="10" target="12"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e11" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="11" target="12"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e12" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="12" target="13"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e13" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="13" target="14"><mxGeometry relative="1" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,6 @@
+=== 2025-03-20 load max 6757.8 pv_plan max 8250.0 net (L-G/6) min 2401.0 max 6144.0 net<0 slots 0
+   feasible cost 40996.6 curt 0.0
+=== 2025-06-21 load max 4317.3 pv_plan max 8161.3 net (L-G/6) min 2270.9 max 4003.9 net<0 slots 0
+   INFEASIBLE: plan infeasible: The problem is infeasible. (HiGHS Status 8:
+=== 2025-09-23 load max 6705.0 pv_plan max 8741.7 net (L-G/6) min 3147.6 max 6596.1 net<0 slots 0
+   feasible cost 42660.7 curt 0.0

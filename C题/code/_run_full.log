@@ -1,0 +1,11 @@
+P1 done cost 55363.49
+P2 done
+P3 done
+P4-2 done
+P4-3 done
+RESULTS -> C:\Users\Tower\Desktop\26年国赛\C题\results
+P1 {"cost": 55363.490658455, "qDA_kWh": 86108.3437611111, "C_kWh": 17837.43838477366, "D_kWh": 14448.325091666666}
+P2 {"plan_purchase_kWh": 24945383.63346111, "emergency_kWh": 30101.76583441662, "plan_cost": 15741353.580065325, "emergency_cost": 150833.0274854587, "adj_cost": 0.0, "total_cost": 15892186.607550783}
+P3 {"plan_purchase_kWh": 24945383.63346111, "emergency_kWh": 808.5198884444368, "plan_cost": 15741353.580065325, "emergency_cost": 3785.364293020797, "adj_cost": 904733.1095992728, "total_cost": 16649872.053957619}
+P4-2 {"plan_purchase_kWh": 24991621.68746821, "emergency_kWh": 28960.945196194407, "plan_cost": 16125500.958874056, "emergency_cost": 157948.13699699868, "adj_cost": 0.0, "total_cost": 16283449.095871055}
+P4-3 {"plan_purchase_kWh": 24991621.68746821, "emergency_kWh": 827.6184980555536, "plan_cost": 16125500.958874056, "emergency_cost": 4508.521791469734, "adj_cost": 839418.0445932207, "total_cost": 16969427.525258746}

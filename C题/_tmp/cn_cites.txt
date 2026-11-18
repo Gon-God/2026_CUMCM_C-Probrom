@@ -1,0 +1,25 @@
+==========================================================================================
+[CSEE-search] https://epjournal.csee.org.cn/zgdjgcxb/cn/search?searchType=1&q=%E5%BE%AE%E7%BD%91%E7%BB%8F%E6%B5%8E%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98%E7%9A%84%E6%B7%B7%E5%90%88%E6%95%B4%E6%95%B0%E8%A7%84%E5%88%92%E6%96%B9%E6%B3%95
+  ERR HTTPError HTTP Error 404: Not Found
+==========================================================================================
+[CSEE-home] https://epjournal.csee.org.cn/zgdjgcxb/cn/
+  ERR HTTPError HTTP Error 404: Not Found
+==========================================================================================
+[EPAE-2015-10] https://www.epae.cn/dlzdhsb/ch/reader/view_abstract.aspx?file_no=201510005&flag=1
+len=707
+  [引用本文] 期刊荣誉 期刊简介 投稿指南 投稿步骤 投稿须知 合作与订阅 广告业务 订阅方法 订阅单 English CPES期刊 引用本文: 【打印本页】 &nbsp;&nbsp; 【下载PDF全文】 &nbsp;&nbsp; 【 查看/发表评论 】 &nbsp;&nbsp; 【EndNote】 &nbsp;&nbsp; 【RefMan】 &nbsp;&nbsp; 【BibTex】 ←前一篇 | 后一篇→ 过刊浏览 &nbsp;&nbsp;&nbsp;&nbsp; 高级检索 本文已被：浏览 次&nbsp;&nbsp;&nbs
+  [DOI] ; 分享到： 微信 更多 --> 字体: 加大+ | 默认 | 缩小- 摘要 : 关键词 : &nbsp;&nbsp; DOI： 分类号 : 基金项目: Abstract : Key words :&nbsp;&nbsp; 友情链接 &nbsp;&nbsp; 综合智慧能源 &nbsp;&nbsp; 发电技术 &nbsp;&nbsp; 万方数据库 &nbsp;&nbsp; 中国知网数据库 &nbsp;&nbsp; 北京勤云科技发展有限公司 联系我们 电话：（025）83537347（中文编辑部），51859279（英
+==========================================================================================
+[EPAE-2020-01] https://www.epae.cn/dlzdhsb/ch/reader/view_abstract.aspx?journal_id=dlzdhsb&file_no=202001018
+len=3048
+  [引用本文] 期刊荣誉 期刊简介 投稿指南 投稿步骤 投稿须知 合作与订阅 广告业务 订阅方法 订阅单 English CPES期刊 引用本文: 王守相,张善涛,王凯,黄碧斌.计及分时电价下用户需求响应的分布式储能多目标优化运行[J].电力自动化设备,2020,40(1): WANG Shouxiang,ZHANG Shantao,WANG Kai,HUANG Bibin.Multi-objective optimal operation of distributed energy storage considering use
+  [DOI] p; 分时电价 &nbsp;&nbsp; 需求响应 &nbsp;&nbsp; 遗传算法 &nbsp;&nbsp; 优化 DOI： 10.16081/j.epae.201911029 分类号 : TM731;F407.61 基金项目: 国家电网公司科技项目(SGERIxnyKJ[2017]95) Multi-objective optimal operation of distributed energy storage considering user demand response under time-of-u
+==========================================================================================
+[PCMP] https://www.pcmp.info/ch/reader/view_abstract.aspx?file_no=20142301&flag=1
+len=3345
+  CITE>> 徐立中,易永辉,朱承治,等.考虑风电随机性的微网多时间尺度能量优化调度[J].电力系统保护与控制,2014,42(23):1-8
+  [引用本文] 年目录 2020年目录 2021年目录 2022年目录 2023年目录 2024年目录 2025年目录 2026年目录 引用本文: 徐立中,易永辉,朱承治,等.考虑风电随机性的微网多时间尺度能量优化调度[J].电力系统保护与控制,2014,42(23):1-8. XU Li-zhong,YI Yong-hui,ZHU Cheng-zhi,et al.Multi-time scale optimal energy dispatch of microgrid considering stochastic wind po
+  [DOI] ; 风电 &nbsp;&nbsp; 随机性 &nbsp;&nbsp; 日前调度 &nbsp;&nbsp; 实时运行调度 DOI： 10.7667/j.issn.1674-3415.2014.23.001 分类号 : 基金项目: Multi-time scale optimal energy dispatch of microgrid considering stochastic wind power XU Li-zhong 1 , YI Yong-hui 2 , ZHU Cheng-zhi 1 , ZHAO Bo 
+==========================================================================================
+[AIOPS] http://www.aeps-info.com/aeps/article/abstract/200912053
+  ERR HTTPError HTTP Error 412: Precondition Failed

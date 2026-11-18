@@ -1,0 +1,24 @@
+<mxfile>
+  <diagram name="roadmap">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="附件数据 (附件1-4)" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1"><mxGeometry x="30" y="20" width="150" height="40"/></mxCell>
+        <mxCell id="3" value="数据处理与口径定义(144时段/储能参数)" style="rounded=1" vertex="1" parent="1"><mxGeometry x="230" y="20" width="180" height="40"/></mxCell>
+        <mxCell id="4" value="问题1 单日确定性日前计划 LP" style="rounded=1" vertex="1" parent="1"><mxGeometry x="60" y="110" width="170" height="40"/></mxCell>
+        <mxCell id="5" value="问题2 全年日前计划+紧急购电" style="rounded=1" vertex="1" parent="1"><mxGeometry x="60" y="180" width="170" height="40"/></mxCell>
+        <mxCell id="6" value="问题3 四次预报滚动调整购电" style="rounded=1" vertex="1" parent="1"><mxGeometry x="270" y="110" width="170" height="40"/></mxCell>
+        <mxCell id="7" value="问题4 动态电价下重算问题2、3" style="rounded=1" vertex="1" parent="1"><mxGeometry x="270" y="180" width="190" height="40"/></mxCell>
+        <mxCell id="8" value="result1-3 / result4-2,4-3 ＋ 论文图表" style="rounded=1" vertex="1" parent="1"><mxGeometry x="160" y="260" width="230" height="40"/></mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2" target="3"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="3" target="4"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="3" target="6"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4" target="5"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="6" target="7"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="5" target="8"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="7" target="8"><mxGeometry relative="1" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

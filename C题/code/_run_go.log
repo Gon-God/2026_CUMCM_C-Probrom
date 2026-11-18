@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\Tower\Desktop\26年国赛\C题\code\run_all.py", line 274, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Tower\Desktop\26年国赛\C题\code\run_all.py", line 258, in main
+    "P1": {"cost": p1["cost"], "qDA_kWh": float(p1["qDA"].sum()),
+                   ~~^^^^^^^^
+KeyError: 'cost'

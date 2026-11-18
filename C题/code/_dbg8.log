@@ -1,0 +1,5 @@
+feasibility-only status 2 The problem is infeasible. (HiGHS Status 8: m
+e end before 1200.0
+max balance residual on constructed: 1470.503
+e min/max 1166.9 10800.0 e_end 1200.0
+C sum 10666.7 D sum 12960.0 q>0 count 62 r>0 count 23

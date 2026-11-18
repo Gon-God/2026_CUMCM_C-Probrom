@@ -1,0 +1,39 @@
+################ Semantic Scholar lookups ################
+
+Q: 分布式发电、微网与智能配电网的发展与挑战
+   - EMI Teaching Practice on Computer Networking Course | Haiyun Gu; L. Ren; Hua Bo | 2019 | venue=DEStech Transactions on Social Science Education and Human Science | journal={'name': 'DEStech Transactions on Social Science, Education and Human Science'} | ids={'MAG': '2913665896', 'DOI': '10.12783/DTSSEHS/EMSE2018/27265', 'CorpusId': 86559111}
+
+Q: 微电网技术综述
+   ERR HTTPError HTTP Error 429: 
+
+Q: 微网经济调度问题的混合整数规划方法
+
+Q: 微电网两阶段鲁棒优化经济调度方法
+   ERR HTTPError HTTP Error 429: 
+
+Q: 包含钠硫电池储能的微网系统经济运行优化
+   ERR HTTPError HTTP Error 429: 
+
+Q: 考虑风电随机性的微网多时间尺度能量优化调度
+   ERR HTTPError HTTP Error 429: 
+
+Q: 计及分时电价下用户需求响应的分布式储能多目标优化运行
+   ERR HTTPError HTTP Error 429: 
+
+Q: 计及蓄电池使用寿命的微电网经济调度模型
+   ERR HTTPError HTTP Error 429: 
+
+Q: 主动配电网中电池储能系统最优充放电策略
+   ERR HTTPError HTTP Error 429: 
+
+Q: 微网系统的动态经济调度
+   ERR HTTPError HTTP Error 429: 
+
+################ epae.cn issue list 2015-10 ################
+ 《电力自动化设备》 欢迎访问《电力自动化设备》杂志社网站！ // Executes the function when DOM will be loaded fully $(document).ready(function () { // hover property will help us set the events for mouse enter and mouse leave $('.navigation li').hover( // When mouse enters the .navigation element function () { //Fade in the navigation submenu $('dl', this).fadeIn(); // fadeIn will show the sub cat menu }, // When mouse leaves the .navigation element function () { //Fade out the navigation submenu $('dl', this).fadeOut(); // fadeOut will hide the sub cat menu } ); }); function addCookie(url,title) { if (document.all) { window.external.addFavorite(url,title); } else if (window.sidebar) { window.sidebar.addPanel(title, url, ""); } } function setHomepage(homeurl) { if (document.all) { document.body.style.behavior='url(#default#homepage)'; document.body.setHomePage(homeurl); } else if (window.sidebar) { if(window.netscape) { try { netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect"); } catch (e) { alert( "该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true" ); } } var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch); prefs.setCharPref('browser.startup.homepage',homeurl); } } 高级搜索 首页 期刊介绍 联系我们 青年编委 编委会 期刊荣誉 期刊简介 投稿指南 投稿步骤 投稿须知 合作与订阅 广告业务 订阅方法 订阅单 English CPES期刊 var quarterNameID=new Array(); quarterNameID[0]="0:0:第0期"; quarterNameID[1]="1991:1:第1期"; quarterNameID[2]="1991:2:第2期"; quarterNameID[3]="1991:3:第3期"; quarterNameID[4]="1991:4:第4期"; quarterNameID[5]="1992:4:第4期"; quarterNameID[6]="1993:1:第1期"; quarterNameID[7]="1993:2:第2期"; quarterNameID[8]="1993:3:第3期"; quarterNameID[9]="1993:4:第4期"; quarterNameID[10]="1993:17:第17期"; quarterNameID[11]="1994:1:第1期"; quarterNameID[12]="1994:2:第2期"; quarterNameID[13]="1994:3:第3期"; quarterNameID[14]="1994:4:第4期"; quarterNameID[15]="1995:1:第1期"; quarterNameID[16]="1995:2:第2期"; quarterNameID[17]="1995:3:第3期"; quarterNameID[18]="1995:4:第4期"; quarterNameID[19]="1995:19:第19期"; quarterNameID[20]="1996:1:第1期"; quarterNameID[21]="1996:2:第2期"; quarterNameID[22]="1996:3:第3期"; quarterNameID[23]="1996:4:第4期"; quarterNameID[24]="1997:1:第1期"; quarterNameID[25]="1997:2:第2期"; quarterNameID[26]="1997:3:第3期"; quarterNameID[27]="1997:4:第4期"; quarterNameID[28]="1997:21:第21期"; quarterNameID[29]="1998:1:第1期"; quarterNameID[30]="1998:2:第2期"; quarterNameID[31]="1998:3:第3期"; quarterNameID[32]="1998:4:第4期"; quarterNameID[33]="1999:1:第1期"; quarterNameID[34]="1999:2:第2期"; quarterNameID[35]="1999:3:第3期"; quarterNameID[36]="1999:4:第4期"; quarterNameID[37]="1999:5:第5期"; quarterNameID[38]="1999:6:第6期"; quarterNameID[39]="2000:1:第1期"; quarterNameID[40]="2000:2:第2期"; quarterNameID[41]="2000:3:第3期"; quarterNameID[42]="2000:4:第4期"; quarterNameID[43]="2000:5:第5期"; quarterNameID[44]="2000:6:第6期"; quarterNameID[45]="2001:1:第1期"; quarterNameID[46]="2001:2:第2期"; quarterNameID[47]="2001:3:第3期"; quarterNameID[48]="2001:4:第4期"; quarterNameID[49]="2001:5:第5期"; quarterNameID[50]="2001:6:第6期"; quarterNameID[51]="2001:7:第7期"; quarterNameID[52]="2001:8:第8期"; quarterNameID[53]="2001:9:第9期"; quarterNameID[54]="2001:10:第10期"; quarterNameID[55]="2001:11:第11期"; quarterNameID[56]="2001:12:第12期"; quarterNameID[57]="2002:1:第1期"; quarterNameID[58]="2002:2:第2期"; quarterNameID[59]="2002:3:第3期"; quarterNameID[60]="2002:4:第4期"; quarterNameID[61]="2002:5:第5期"; quarterNameID[62]="2002:6:第6期"; quarterNameID[63]="2002:7:第7期"; quarterNameID[64]="2002:8:第8期"; quarterNameID[65]="2002:9:第9期"; quarterNameID[66]="2002:10:第10期"; quarterNameID[67]="2002:11:第11期"; quarterNameID[68]="2002:12:第12期"; quarterNameID[69]="2003:1:第1期"; quarterNameID[70]="2003:2:第2期"; quarterNameID[71]="2003:3:第3期"; quarterNameID[72]="2003:4:第4期"; quarterNameID[73]="2003:5:第5期"; quarterNameID[74]="2003:6:第6期"; quarterNameID[75]="2003:7:第7期"; quarterNameID[76]="2003:8:第8期"; quarterNameID[77]="2003:9:第9期"; quarterNameID[78]="2003:10:第10期"; quarterNameID[79]="2003:11:第11期"; quarterNameID[80]="2003:12:第12期"; quarterNameID[81]="2004:1:第1期"; quarterNameID[82]="2004:2:第2期"; quarterNameID[83]="2004:3:第3期"; quarterNameID[84]="2004:4:第4期"; quarterNameID[85]="2004:5:第5期"; quarterNameID[86]="2004:6:第6期"; quarterNameID[87]="2004:7:第7期"; quarterNameID[88]="2004:8:第8期"; quarterNameID[89]="2004:9:第9期"; quarterNameID[90]="2004:10:第10期"; quarterNameID[91]="2004:11:第11期"; quarterNameID[92]="2004:12:第12期"; quarterNameID[93]="2005:1:第1期"; quarterNameID[94]="2005:2:第2期"; quarterNameID[95]="2005:3:第3期"; quarterNameID[96]="2005:4:第4期"; quarterNameID[97]="2005:5:第5期"; quarterNameID[98]="2005:6:第6期"; quarterNameID[99]="2005:7:第7期"; quarterNameID[100]="2005:8:第8期"; quarterNameID[101]="2005:9:第9期"; quarterNameID[102]="2005:10:第10期"; quarterNameID[103]="2005:11:第11期"; quarterNameID[104]="2005:12:第12期"; quarterNameID[105]="2006:1:第1期"; quarterNameID[106]="2006:2:第2期"; quarterNameID[107]="2006:3:第3期"; quarterNameID[108]="2006:4:第4期"; quarterNameID[109]="2006:5:第5期"; quarterNameID[110]="2006:6:第6期"; quarterNameID[111]="2006:7:第7期"; quarterNameID[112]="2006:8:第8期"; quarterNameID[113]="2006:9:第9期"; quarterNameID[114]="2006:10:第10期"; quarterNameID[115]="2006:11:第11期"; quarterNameID[116]="2006:12:第12期"; quarterNameID[117]="2007:1:第1期"; quarterNameID[118]="2007:2:第2期"; quarterNameID[119]="2007:3:第3期"; quarterNameID[120]="2007:4:第4期"; quarterNameID[121]="2007:5:第5期"; quarterNameID[122]="2007:6:第6期"; quarterNameID[123]="2007:7:第7期"; quarterNameID[124]="2007:8:第8期"; quarterNameID[125]="2007:9:第9期"; quarterNameID[126]="2007:10:第10期"; quarterNameID[127]="2007:11:第11期"; quarterNameID[128]="2007:12:第12期"; quarterNameID[129]="2008:1:第1期"; quarterNameID[130]="2008:2:第2期"; quarterNameID[131]="2008:3:第3期"; quarterNameID[132]="2008:4:第4期"; quarterNameID[133]="2008:5:第5期"; quarterNameID[134]="2008:6:第6期"; quarterNameID[135]="2008:7:第7期"; quarterNameID[136]="2008:8:第8期"; quarterNameID[137]="2008:9:第9期"; quarterNameID[138]="2008:10:第10期"; quarterNameID[139]="2008:11:第11期"; quarterNameID[140]="2008:12:第12期"; 
+
+################ epjournal.csee.org.cn reachability ################
+ERR https://epjournal.csee.org.cn/zgdjgcxb/cn/article/doi/10.13334/j.0258-8013.pcsee.2013.28.001 HTTPError HTTP Error 404: Not Found
+OK http://ntps.epri.sgcc.com.cn/djgcxb/CN/10.13334/j.0258-8013.pcsee.2013.28.001 len=560
+    
+ERR https://www.dwjs.com.cn/CN/10.13335/j.1000-3673.pst.2018.14.001 URLError <urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>

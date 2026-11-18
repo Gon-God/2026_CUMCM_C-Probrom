@@ -1,0 +1,12 @@
+===  2025-03-20
+  plan_cost 40996.6 adj 4721.9 emerg 10695.6 qDA kWh 67748.7
+  em kWh 3531.9   C kWh 21664.9 D kWh 17548.6   e0/e_end 6750 6000
+  |a-qDA| total 4923.3
+Traceback (most recent call last):
+  File "C:\Users\Tower\Desktop\26年国赛\C题\code\_smoke.py", line 19, in <module>
+    p3 = run_all.solve_one_day(fc3, d, load_yr[d], pv_yr[d], price1, with_adj=True)
+  File "C:\Users\Tower\Desktop\26年国赛\C题\code\run_all.py", line 59, in solve_one_day
+    plan = solve_plan(price, pv_plan, load_act)
+  File "C:\Users\Tower\Desktop\26年国赛\C题\code\milp_core.py", line 81, in solve_plan
+    raise RuntimeError("plan infeasible: " + res.message)
+RuntimeError: plan infeasible: The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)

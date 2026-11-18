@@ -1,0 +1,3 @@
+REAL_DIR: 'C:\\Users\\Tower\\Desktop\\26年国赛\\C题\\code'
+FOLDER: '26年国赛'
+py files: ['_dbg.py', '_dbg2.py', '_dbg3.py', '_dbg4.py', '_dbg5.py', '_dbg6.py', '_find.py', '_smoke.py', '_smoke2.py', '_t1.py', '_t3.py', '_t4.py', '_t5.py', 'milp_core.py', 'run_all.py', 'utils.py']

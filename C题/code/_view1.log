@@ -1,0 +1,9 @@
+block 0: slots 0-28  load kW mean 2931  pv kW mean 0  net kWh/slot (L-G/6) mean 2931.1
+block 1: slots 28-56  load kW mean 3029  pv kW mean 2498  net kWh/slot (L-G/6) mean 2612.2
+block 2: slots 56-84  load kW mean 3798  pv kW mean 7323  net kWh/slot (L-G/6) mean 2577.2
+block 3: slots 84-112  load kW mean 3785  pv kW mean 3374  net kWh/slot (L-G/6) mean 3222.8
+block 4: slots 112-144  load kW mean 3414  pv kW mean 6  net kWh/slot (L-G/6) mean 3413.0
+daily load kWh 81408 pv kWh 61616
+max load kW 4317 at slot 94
+max net L-G/6 4004 at slot 114
+min net L-G/6 2271 at slot 71

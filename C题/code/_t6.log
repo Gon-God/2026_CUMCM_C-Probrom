@@ -1,0 +1,4 @@
+net min/max -755.0 666.5 n<0 50
+trivial point max constraint violation: 1510.0622 at row 504 (0 = feasible)
+milp status 2 The problem is infeasible. (HiGHS Status 8: m fun 
+linprog(highs) status 2 The problem is infeasible. (HiGHS Status 8: m fun 
